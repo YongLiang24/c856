@@ -11,7 +11,7 @@ body{
 }
 
 #home_image {
-	flex: 33.33%;
+
 	
 }
 
@@ -42,4 +42,5 @@ body{
 	height:50px;
 	overflow:auto;
 	display:flex;
+	text-align: center;
 }
